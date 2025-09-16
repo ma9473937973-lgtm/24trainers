@@ -1,0 +1,155 @@
+
+.section1{
+    background-color: #E4F6F5;
+    height: 778px;
+}
+a{
+    color: black !important;
+    text-decoration: none !important;
+    font-size: larger;
+}
+.button1{
+    border: none;
+    border-radius: 8px;
+    background-color:rgb(97, 216, 224);
+    width: 170px;
+}
+
+h1{
+    font-size: 65px !important;
+    font-weight: 300 !important;
+    padding-top: 50px !important;
+}
+p{
+    font-size: larger;
+}
+.button2{
+    border: none;
+    background-color: rgb(97, 216, 224);
+    box-sizing: border-box;
+    font-size: 20px;
+    padding: 17px;
+    border-radius: 8px;
+}
+.button3{
+background-color: white;
+border: none;
+ box-sizing: border-box;
+    font-size: 20px;
+    padding: 17px;
+    border-radius: 8px;
+}
+.h22{
+    font-size: 45px;
+    font-weight: 300;
+    color: rgb(97, 216, 224);
+}
+/* ==============section2============ */
+.btn1{
+    color: rgb(97, 216, 224); ;
+    border: none;
+}
+
+.boots{
+    border: solid 1px;;
+    color: rgb(97, 216, 224); ;
+    width: 300px;
+    height: 120px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.h33{
+    font-size: 38px;
+}
+.span3{
+    color: rgb(56, 54, 54);
+    font-size: medium;
+    text-align: center;
+    }
+
+/* ======section3=======>? */
+.cc{
+    font-size: 70px;
+    color:rgb(97, 216, 224); ; 
+}
+.cc2{
+    font-size: 70px;
+    color:rgb(97, 216, 224);
+}
+.cc3{
+    font-size: 70px;
+    color:rgb(97, 216, 224); ;
+}
+.cont{
+    margin-top: 175px;
+}
+
+/* ======section4====== */
+
+.sec4f{
+    margin-top: 240px;
+}
+
+
+
+
+
+
+
+
+/* ========innovation============= */
+.img1{
+    border-radius: 27px;
+}
+.invorocket{
+    color: aliceblue;
+    background-color:rgb(67, 176, 184) ;
+    padding: 10px;
+    width: 78px;
+    border-radius: 20px;
+
+}
+.invobtn{
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(95, 197, 204);
+}
+.invoh2{
+    color:rgb(45, 228, 241) ;
+}
+.inovation{
+    box-shadow: 0 0 10px rgb(247, 228, 228);
+    height: 700px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+
+
+
+
+
+
+/* <!-- =======section5=====>? --> */
+.cc4{
+    font-size: 60px;
+    color:rgb(97, 216, 224); 
+}
+.pp{
+    font-size:18px;
+}
+.sec4btn{
+    border: none;
+    color:rgb(97, 216, 224);;
+
+
+}
+.sec4div{
+    box-shadow: 0 0 10px rgb(230, 211, 211);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 200px;
+}
